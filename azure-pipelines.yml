@@ -1,4 +1,4 @@
 pool: 
-   name: Default
+   name: 'GitHub Codespaces pool'
 steps:
 - bash: echo hello world
