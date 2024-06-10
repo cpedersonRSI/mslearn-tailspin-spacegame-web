@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'GitHub Codespaces pool' # CP 06-2:35 Replace Default with the name of your agent pool if you used a different pool
+  name: 'GitHub Codespaces pool' # CP 06-2:45 Replace Default with the name of your agent pool if you used a different pool
 
 variables:
   buildConfiguration: 'Release'
