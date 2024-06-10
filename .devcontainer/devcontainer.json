@@ -36,6 +36,7 @@
 		"ghcr.io/lukewiwa/features/shellcheck:0": {},
 		"ghcr.io/devcontainers/features/github-cli:1": {},
 		"ghcr.io/devcontainers-contrib/features/corepack:1": {},
-		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
+		"ghcr.io/devcontainers-contrib/features/npm-package:1": {},
+		"ghcr.io/devcontainers-contrib/features/gulp-cli:2": {}
 	}
 }
